@@ -1,0 +1,13 @@
+LogisticRegression: ROC-AUC=0.763 recall@0.4=0.702
+RandomForest: ROC-AUC=0.811 recall@0.4=0.789
+GradientBoosting: ROC-AUC=0.808 recall@0.4=0.667
+
+Best: RandomForest
+              precision    recall  f1-score   support
+
+           0       0.83      0.78      0.81       114
+           1       0.61      0.68      0.64        57
+
+    accuracy                           0.75       171
+   macro avg       0.72      0.73      0.73       171
+weighted avg       0.76      0.75      0.75       171

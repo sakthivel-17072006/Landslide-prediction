@@ -1,0 +1,9 @@
+town,latitude,longitude,rainfall,soil_moisture,risk_probability,risk_level,source
+Kolasib,24.226,92.676,10.6,26.8,0.7,HIGH,open-meteo
+Lunglei,22.8671,92.7656,6.2,32.9,0.687,HIGH,open-meteo
+Aizawl,23.7271,92.7176,3.4,15.7,0.627,HIGH,open-meteo
+Champhai,23.4569,93.3254,6.2,24.7,0.273,LOW,open-meteo
+Lawngtlai,22.53,92.88,2.4,33.3,0.257,LOW,open-meteo
+Serchhip,23.3,92.85,4.1,30.3,0.243,LOW,open-meteo
+Saiha,22.485,92.978,4.5,33.9,0.23,LOW,open-meteo
+Mamit,23.93,92.48,3.7,18.8,0.173,VERY LOW,open-meteo
